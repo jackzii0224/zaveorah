@@ -1,0 +1,7 @@
+{
+  "name": "ZaveOrah",
+  "description": "A comprehensive business management application tailored for Small and Medium Enterprises (SMEs) in Papua New Guinea. It helps manage sales, expenses, inventory, customers, and employees with a simple, user-friendly interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
